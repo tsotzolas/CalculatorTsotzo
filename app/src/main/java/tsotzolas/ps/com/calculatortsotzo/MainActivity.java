@@ -108,6 +108,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         btnDot.setOnClickListener(this);
 
 
+        System.out.println("Test");
+
+
     }
 
 
